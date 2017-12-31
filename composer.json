@@ -39,8 +39,7 @@
     ],
   
   "require": {
-    "wellcommerce/app-bundle": "^0.9@dev",
-    "sunnyPage/catalog-bundle": "dev-master",
+    "wellcommerce/app-bundle": "^0.9@dev",   
     "SunnyPage/invoice-bundle": "dev-master",
     "wellcommerce/shipment-bundle": "^0.9@dev",
     "dvdoug/boxpacker": "^2.3"
